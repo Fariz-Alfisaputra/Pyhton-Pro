@@ -59,4 +59,4 @@ async def organic(ctx):
 
 
     
-bot.run("MTI2OTIzNjIwOTIxNzk2MjAzNg.GuMrlE.gt36viszIwW0l2u5TuI7Hlz4hBvNKtskbkFmc4")
+bot.run("token discord")
